@@ -1,0 +1,39 @@
+.navbar-custom{
+  background-color: #8122222;
+}
+a[href]{
+color: white;
+}
+body{
+  background-color: #9E3939;
+  font-family: 'Poppins';
+}
+h1{
+  font-size: 70px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.navbar {
+  padding: 0 0 2px 0;
+  margin: 0 0 0 0;
+}
+
+.nav-item {
+  padding: 0 20px;
+}
+
+.nav-link{
+  padding: 0 3px 0 3px;
+}
+
+#navigation{
+  background-color: #812222;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color:white;
+}
+.navbar-brand{
+  width:30%;
+}
